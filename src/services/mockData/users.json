@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.teacher@edutrack.com",
+    "role": "teacher",
+    "profile_photo": null,
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Education St, Learning City, LC 12345"
+  },
+  {
+    "Id": 2,
+    "name": "Alex Chen",
+    "email": "alex.student@edutrack.com",
+    "role": "student",
+    "profile_photo": null,
+    "phone": "+1 (555) 987-6543",
+    "address": "456 Student Ave, Study Town, ST 67890"
+  },
+  {
+    "Id": 3,
+    "name": "Michael Rodriguez",
+    "email": "michael.s@edutrack.com",
+    "role": "student",
+    "profile_photo": null,
+    "phone": "+1 (555) 456-7890",
+    "address": "789 Scholar Blvd, Knowledge City, KC 11223"
+  },
+  {
+    "Id": 4,
+    "name": "Emily Thompson",
+    "email": "emily.s@edutrack.com",
+    "role": "student",
+    "profile_photo": null,
+    "phone": "+1 (555) 234-5678",
+    "address": "321 Academic Dr, Wisdom Valley, WV 44556"
+  },
+  {
+    "Id": 5,
+    "name": "David Kim",
+    "email": "david.s@edutrack.com",
+    "role": "student",
+    "profile_photo": null,
+    "phone": "+1 (555) 345-6789",
+    "address": "654 Learning Lane, Study Hills, SH 77889"
+  },
+  {
+    "Id": 6,
+    "name": "Jessica Martinez",
+    "email": "jessica.s@edutrack.com",
+    "role": "student",
+    "profile_photo": null,
+    "phone": "+1 (555) 567-8901",
+    "address": "987 Education Pkwy, Brain City, BC 99000"
+  }
+]

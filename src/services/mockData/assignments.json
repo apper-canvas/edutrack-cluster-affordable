@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "title": "Math Problem Set #5",
+    "description": "Complete problems 1-20 from Chapter 8: Quadratic Equations. Show all work and include explanations for each step.",
+    "due_date": "2024-12-20T23:59:59",
+    "subject": "Mathematics",
+    "teacher_id": 1,
+    "max_grade": 100
+  },
+  {
+    "Id": 2,
+    "title": "Essay: Climate Change Impact",
+    "description": "Write a 1000-word essay analyzing the environmental and economic impacts of climate change on coastal communities.",
+    "due_date": "2024-12-18T23:59:59",
+    "subject": "Environmental Science",
+    "teacher_id": 1,
+    "max_grade": 100
+  },
+  {
+    "Id": 3,
+    "title": "History Research Project",
+    "description": "Create a presentation on the causes and effects of World War II. Include primary sources and analysis.",
+    "due_date": "2024-12-22T23:59:59",
+    "subject": "History",
+    "teacher_id": 1,
+    "max_grade": 100
+  },
+  {
+    "Id": 4,
+    "title": "Chemistry Lab Report",
+    "description": "Document your findings from the acid-base titration experiment. Include data tables, calculations, and conclusions.",
+    "due_date": "2024-12-15T23:59:59",
+    "subject": "Chemistry",
+    "teacher_id": 1,
+    "max_grade": 100
+  }
+]

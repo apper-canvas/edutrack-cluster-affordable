@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "assignment_id": 1,
+    "student_id": 2,
+    "submission_text": "Completed all 20 problems with detailed solutions and explanations.",
+    "file_path": "submissions/math_assignment_alex_chen.pdf",
+    "status": "submitted",
+    "grade": 95,
+    "feedback": "Excellent work! Clear explanations and correct solutions.",
+    "submitted_at": "2024-12-10T14:30:00",
+    "graded_at": "2024-12-11T09:15:00"
+  },
+  {
+    "Id": 2,
+    "assignment_id": 2,
+    "student_id": 2,
+    "submission_text": "Climate change essay focusing on coastal erosion and economic impacts.",
+    "file_path": "submissions/climate_essay_alex_chen.docx",
+    "status": "submitted",
+    "grade": null,
+    "feedback": null,
+    "submitted_at": "2024-12-12T16:45:00",
+    "graded_at": null
+  },
+  {
+    "Id": 3,
+    "assignment_id": 1,
+    "student_id": 3,
+    "submission_text": null,
+    "file_path": null,
+    "status": "pending",
+    "grade": null,
+    "feedback": null,
+    "submitted_at": null,
+    "graded_at": null
+  },
+  {
+    "Id": 4,
+    "assignment_id": 3,
+    "student_id": 4,
+    "submission_text": "WWII research presentation with primary source analysis.",
+    "file_path": "submissions/wwii_presentation_emily.pptx",
+    "status": "graded",
+    "grade": 88,
+    "feedback": "Good research but could use more primary sources.",
+    "submitted_at": "2024-12-08T20:30:00",
+    "graded_at": "2024-12-09T11:20:00"
+  },
+  {
+    "Id": 5,
+    "assignment_id": 4,
+    "student_id": 5,
+    "submission_text": "Lab report on acid-base titration with complete data analysis.",
+    "file_path": "submissions/chem_lab_david.pdf",
+    "status": "submitted",
+    "grade": null,
+    "feedback": null,
+    "submitted_at": "2024-12-13T13:15:00",
+    "graded_at": null
+  }
+]

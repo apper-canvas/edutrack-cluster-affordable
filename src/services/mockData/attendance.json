@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 1,
+    "student_id": 2,
+    "teacher_id": 1,
+    "date": "2024-12-13",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 2,
+    "student_id": 3,
+    "date": "2024-12-13",
+    "status": "absent",
+    "remarks": "Sick leave reported by parent"
+  },
+  {
+    "Id": 3,
+    "student_id": 4,
+    "date": "2024-12-13",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 4,
+    "student_id": 5,
+    "date": "2024-12-13",
+    "status": "tardy",
+    "remarks": "Arrived 15 minutes late"
+  },
+  {
+    "Id": 5,
+    "student_id": 6,
+    "date": "2024-12-13",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 6,
+    "student_id": 2,
+    "date": "2024-12-12",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 7,
+    "student_id": 3,
+    "date": "2024-12-12",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 8,
+    "student_id": 4,
+    "date": "2024-12-12",
+    "status": "tardy",
+    "remarks": "Traffic delay"
+  },
+  {
+    "Id": 9,
+    "student_id": 5,
+    "date": "2024-12-12",
+    "status": "present",
+    "remarks": null
+  },
+  {
+    "Id": 10,
+    "student_id": 6,
+    "date": "2024-12-12",
+    "status": "absent",
+    "remarks": "Doctor appointment"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "student_id": 2,
+    "form_type": "Final Exam Registration",
+    "subject": "Mathematics",
+    "exam_date": "2025-01-15",
+    "submission_status": "submitted",
+    "submitted_at": "2024-12-05T10:30:00",
+    "approved_at": "2024-12-06T14:20:00"
+  },
+  {
+    "Id": 2,
+    "student_id": 2,
+    "form_type": "Final Exam Registration",
+    "subject": "Environmental Science",
+    "exam_date": "2025-01-18",
+    "submission_status": "submitted",
+    "submitted_at": "2024-12-05T10:35:00",
+    "approved_at": null
+  },
+  {
+    "Id": 3,
+    "student_id": 3,
+    "form_type": "Final Exam Registration",
+    "subject": "Mathematics",
+    "exam_date": "2025-01-15",
+    "submission_status": "not_submitted",
+    "submitted_at": null,
+    "approved_at": null
+  },
+  {
+    "Id": 4,
+    "student_id": 4,
+    "form_type": "Final Exam Registration",
+    "subject": "History",
+    "exam_date": "2025-01-20",
+    "submission_status": "approved",
+    "submitted_at": "2024-12-03T16:15:00",
+    "approved_at": "2024-12-04T09:30:00"
+  },
+  {
+    "Id": 5,
+    "student_id": 5,
+    "form_type": "Final Exam Registration",
+    "subject": "Chemistry",
+    "exam_date": "2025-01-17",
+    "submission_status": "rejected",
+    "submitted_at": "2024-12-07T11:45:00",
+    "approved_at": null
+  }
+]
