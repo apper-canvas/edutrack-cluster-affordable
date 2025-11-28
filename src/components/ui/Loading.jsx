@@ -19,7 +19,7 @@ const Loading = () => {
           <div className="h-3 bg-gradient-to-r from-slate-100 via-slate-200 to-slate-100 rounded animate-pulse w-24 mx-auto"></div>
         </div>
         
-        <div className="text-slate-600 font-medium">Loading EduTrack...</div>
+<div className="text-slate-600 font-medium">Loading application...</div>
       </div>
     </div>
   );

@@ -26,23 +26,21 @@ const SuspenseWrapper = ({ children }) => (
 );
 
 // Dashboard component that renders based on user role
-const Dashboard = lazy(() => {
-  const DashboardComponent = () => {
-    const user = JSON.parse(localStorage.getItem("userData") || "{}");
-    
-    if (user.role === "teacher") {
-      return <TeacherDashboard />;
-    } else if (user.role === "student") {
-      return <StudentDashboard />;
-    } else if (user.role === "admin") {
-      return <TeacherDashboard />; // Admin uses teacher dashboard for now
-    } else {
-      return <StudentDashboard />; // Default fallback
-    }
-  };
+const RoleDashboard = () => {
+  const user = JSON.parse(localStorage.getItem("userData") || "{}");
   
-  return Promise.resolve({ default: DashboardComponent });
-});
+  if (user.role === "teacher") {
+    return <TeacherDashboard />;
+  } else if (user.role === "student") {
+    return <StudentDashboard />;
+  } else if (user.role === "admin") {
+    return <TeacherDashboard />; // Admin uses teacher dashboard for now
+  } else {
+    return <StudentDashboard />; // Default fallback
+  }
+};
+
+const Dashboard = lazy(() => Promise.resolve({ default: RoleDashboard }));
 
 // Main routes for authenticated users
 const mainRoutes = [
